@@ -2,7 +2,7 @@
   "name": "homework-01",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://hieucckha.github.io/web-advance-homework/1/",
+  "homepage": "https://hieucckha.github.io/web-advance-homework/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",

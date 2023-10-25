@@ -2,7 +2,7 @@
   "name": "homework-01",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://hieucckha.github.io/web-advance-homework",
+  "homepage": "https://hieucckha.github.io/web-advance-homework/1/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",

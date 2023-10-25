@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-advance-homework/static/css/main.2cb9a270.css",
+    "main.js": "/web-advance-homework/static/js/main.fcf3a009.js",
+    "index.html": "/web-advance-homework/index.html",
+    "main.2cb9a270.css.map": "/web-advance-homework/static/css/main.2cb9a270.css.map",
+    "main.fcf3a009.js.map": "/web-advance-homework/static/js/main.fcf3a009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb9a270.css",
+    "static/js/main.fcf3a009.js"
+  ]
+}
